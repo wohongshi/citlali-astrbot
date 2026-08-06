@@ -1,0 +1,6 @@
+name: astrbot_plugin_citlali_affinity
+display_name: 茜特菈莉·好感度系统
+desc: 为茜特菈莉角色扮演定制的好感度系统，集成LivingMemory长期记忆，提供完整的WebUI管理面板。
+version: 1.0.0
+author: CitlaliDev
+astrbot_version: ">=4.24.2"
